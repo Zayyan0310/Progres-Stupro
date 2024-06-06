@@ -1,0 +1,4 @@
+/* styles.css or equivalent */
+.scroll-container {
+  overflow-y: auto;
+}
